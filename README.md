@@ -6,36 +6,27 @@
 
 ## ✨ Features
 
-🔹 **Dungeon Utilities**  
-- Puzzle solvers (e.g., Blaze, Creeper, 1 Flow Waterboard)  
-- Trap room alerts  
-- Key detection and waypoints  
+🔹 **Dungeons**  
+- Puzzle solvers and timers
+- Bllom room timers
+- Event titles
 
 🔹 **Mob Enhancements**  
-- Wither Boxes  
-- Custom name overlays for important enemies  
-- HP indicators and damage color coding  
+- Boss boxes and solvers 
+- Star mob highlight
+- Dungeon mab radar
 
 🔹 **Class Support**  
-- Role-specific indicators (e.g., Tank aggro status, Healer revives)
-- Class sepcific waypoints for terminals (m7 and f7 formats)
-- Ultimate ability timers and usage alerts  
-
-🔹 **Map & Waypoints**  
-- Customizable dungeon map that doesn't eat fps
-- Teammate clear and terminal stats post run
-
-🔹 **QoL Improvements**  
-- Item ability timers  
-- Blood room timers  
-- Custom chat filters and alerts  
+- Built in M7 roles guide
+- Device and terminal solver
+- Healer wish notifications
 
 ---
 
 ## 📦 Installation
 
 1. Make sure you have [Chatriggers](https://chattriggers.com/) installed.  
-2. Download the latest release of Valley Addons from the [Releases](https://github.com/Trimonw/ValleyAddons/releases/tag/skyblock-dungeons-enhancer) page.  
+2. Download the latest release of Trimonu Addons from the [Releases](https://github.com/Trimonw/TrimonuAddons/releases/tag/skyblock-dungeons-enhancer) page.  
 3. Extract this zip into your /config/ChatTriggers/modules folder.
 4. Launch Minecraft and enjoy!
 
