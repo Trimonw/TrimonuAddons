@@ -1,4 +1,4 @@
-# 🌄 Trimonu Addons
+# 🤖 Trimonu Addons
 
 **Trimonu Addons** is a Hypixel Skyblock mod designed to enhance your Dungeons experience. It is used by virtually all high level dungeon players, notably Hayacyaa, Tmoe, yarns, etc
 
